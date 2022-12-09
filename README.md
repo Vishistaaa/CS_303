@@ -43,3 +43,20 @@ Answer for question 3 :
 <img width="517" alt="Screen Shot 2022-12-08 at 10 52 37 PM" src="https://user-images.githubusercontent.com/90852420/206626698-28d81757-8294-48f7-bb68-b68ffd462c42.png">
 
 
+Header file for question 4:
+
+![image](https://user-images.githubusercontent.com/90852420/206628241-4d460e9f-d9a6-47aa-95f5-50fe62e93bcc.png)
+
+![image](https://user-images.githubusercontent.com/90852420/206628513-b7db7910-d623-4174-a23e-223cd668ccf6.png)
+
+![image](https://user-images.githubusercontent.com/90852420/206628586-f051099e-225a-410c-9a86-f9a02f0ab1db.png)
+
+
+Main file Screenshot for question 4: 
+
+![image](https://user-images.githubusercontent.com/90852420/206628632-bd6e7b2b-4497-4e8c-9993-31169f901e72.png)
+
+Output Screenshot Q4:
+
+<img width="188" alt="Screen Shot 2022-12-08 at 11 15 29 PM" src="https://user-images.githubusercontent.com/90852420/206629285-1e8ccf7b-c309-4b08-b8cf-3d2c39a8dfd2.png">
+
