@@ -60,3 +60,15 @@ Output Screenshot Q4:
 
 <img width="188" alt="Screen Shot 2022-12-08 at 11 15 29 PM" src="https://user-images.githubusercontent.com/90852420/206629285-1e8ccf7b-c309-4b08-b8cf-3d2c39a8dfd2.png">
 
+Header file for question 5:
+
+![image](https://user-images.githubusercontent.com/90852420/206631629-2aaa818e-ea3e-439c-9590-99d707237953.png)
+
+Main file Screenshot for question 5: 
+
+![image](https://user-images.githubusercontent.com/90852420/206631733-adcad790-462e-4d02-8093-620af9ee0d3d.png)
+
+Output Screenshot Q5:
+
+<img width="548" alt="Screen Shot 2022-12-08 at 11 28 44 PM" src="https://user-images.githubusercontent.com/90852420/206632021-ab28f12f-8c23-45fc-85e6-4c671e69daf3.png">
+
