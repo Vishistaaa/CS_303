@@ -40,6 +40,6 @@ Output Screenshot Q2:
 
 Answer for question 3 :
 
-![Uploading image.png…]()
+<img width="517" alt="Screen Shot 2022-12-08 at 10 52 37 PM" src="https://user-images.githubusercontent.com/90852420/206626698-28d81757-8294-48f7-bb68-b68ffd462c42.png">
 
 
