@@ -38,3 +38,8 @@ Output Screenshot Q2:
 
 <img width="580" alt="Screen Shot 2022-12-08 at 10 19 50 PM" src="https://user-images.githubusercontent.com/90852420/206623292-f53a3f4c-96bb-486d-9f0f-b0e6f06c6829.png">
 
+Answer for question 3 :
+
+![Uploading image.png…]()
+
+
